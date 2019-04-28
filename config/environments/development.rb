@@ -1,4 +1,7 @@
 Rails.application.configure do
+  #for the devise gem:
+  config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
+
   #https://github.com/sass/sassc-rails instructions for sassc
   config.sass.inline_source_maps = true
   config.sass.line_comments = false
