@@ -24,8 +24,3 @@ First, clone this repository. Then:
 > bin/rails server # Start the server at localhost:3000
 ```
 
-## My User stories:
-
-1. Produce some stories, break them down into tasks, and estimate
-
-Remember to proceed in small steps! Getting confused? Make the steps even smaller.
